@@ -1,10 +1,12 @@
 ![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*- 
+# -*- coding: utf-8 -*-  
 """
 Created on Tue Oct 31 15:12:32 2023
 
 @author: paramitapradhan
+
+Coverletter Generation
 
 LAUNCH TERMINAL
 EXECUTE THIS CMD LINE - 
