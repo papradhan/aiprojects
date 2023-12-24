@@ -6,7 +6,7 @@ Created on Thu Dec 21 00:25:43 2023
 
 @author: paramitapradhan
 
-COVERLETTER POWERED BY AI
+COVERLETTER POWERED BY AI 
 
 streamlit run /Users/paramitapradhan/Documents/333-Paramita/pythonProject/crashcourse/coverletter.py
 
