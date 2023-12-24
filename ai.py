@@ -1,5 +1,5 @@
 ![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 # -*- coding: utf-8 -*-
 """
 Create GPTs using Openai API calls
