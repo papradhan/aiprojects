@@ -1,3 +1,4 @@
+![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
 # Import prerequisite libraries
 import openai
 from langchain.llms import OpenAI
