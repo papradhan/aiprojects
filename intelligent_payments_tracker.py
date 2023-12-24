@@ -6,6 +6,8 @@ Created on Sun Dec 24 04:40:56 2023
 
 @author: paramitapradhan
 
+INTELLIGENT PAYMENTS TRACKER
+
 """
 import csv
 import openai
