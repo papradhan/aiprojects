@@ -1,3 +1,4 @@
+![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
 import csv
 import openai
 from langchain.llms import OpenAI
