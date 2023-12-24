@@ -4,6 +4,7 @@
 """
 Created on Sat Dec 23 20:24:56 2023
 @author: paramitapradhan
+INTEGRATE LANGCHAIN WITH OPENAI
 """
 # Import prerequisite libraries
 import openai
