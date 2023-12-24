@@ -1,4 +1,4 @@
-![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
+![Watermark](https://github.com/papradhan/aiprojects/raw/main/watermark.png)
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
