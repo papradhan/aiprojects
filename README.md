@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Paramita Pradhan
 - 👀 Passionate about exploring latest AI trends, building GPT models from OpenAI and
 - 🌱 Integrating with LangChain to develop LLM Powered, Natural Language Processing and Generation Applications.
-- 📫 How to reach me ... paramita.a.pradhan@gmail.com
+- 📫 How to reach me ... paramita.a.pradhan@gmail.com 
