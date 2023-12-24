@@ -1,4 +1,10 @@
 ![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Dec 23 20:24:56 2023
+@author: paramitapradhan
+"""
 # Import prerequisite libraries
 import openai
 from langchain.llms import OpenAI
