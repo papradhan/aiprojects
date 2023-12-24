@@ -1,4 +1,12 @@
 ![Watermark](https://github.com/papradhan/aiprojects/watermark.png)
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Dec 24 04:40:56 2023
+
+@author: paramitapradhan
+
+"""
 import csv
 import openai
 from langchain.llms import OpenAI
