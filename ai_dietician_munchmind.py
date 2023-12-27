@@ -34,12 +34,13 @@ def Launch_MunchMind():
         height = st.text_input('Your Height')
         age = st.text_input('Your Age')
         triglycerides = st.text_input('Your Triglycerides')
+        cuisine = st.text_input('Your usual choice of Cuisine at home')
         submitted = st.form_submit_button("Generate My Personalized Nutrition Plan")
         
     # if the form is submitted run the openai completion   
     if submitted:
         completion = openai.ChatCompletion.create(
-          model = "gpt-4",
+          model = "gpt-3.5-turbo",
           messages = [
             {"role": "user", "content" : f"You will need to generate a Personalized Nutrition Plan based on Health Info"},
             {"role": "user", "content" : f"My weight is {weight}"},
@@ -53,8 +54,11 @@ def Launch_MunchMind():
                 {"role": "user", "content" : f""" 
             In the second paragraph focus on how exercise can help me reduce my weight.
             """},
+                {"role": "user", "content" : f""" 
+            In the third paragraph recommend some {cuisine} food choices that would be best for me.
+            """},
                     {"role": "user", "content" : f""" 
-            In the third paragraph: Conclusion
+            In the fourth paragraph: Conclusion
             Restate your commitments towards better health and summarize your next steps and thank the user {name} for using MunchMind.
             """},
           ]
